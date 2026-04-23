@@ -49,7 +49,7 @@ To build a C program that prints integer, float,character, and string literals o
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M1
 # IAPR-1- Module 1 - FoC
 # Ex.No:2
   Build a C program to display the value of a macro constant and a constant variable.
